@@ -2,3 +2,5 @@
 .ipynb_checkpoints/grdtrack_example2-checkpoint.ipynb
 table.txt
 .DS_Store
+.ipynb_checkpoints/regional_residual_bathymetry-checkpoint.ipynb
+filt.nc
