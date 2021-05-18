@@ -7,3 +7,4 @@ filt.nc
 .ipynb_checkpoints/AgeDepthRelationship-checkpoint.ipynb
 .ipynb_checkpoints/ExpectedDepth-checkpoint.ipynb
 Data/SeafloorDepth_SteinStein.nc
+Data/Bathymetry_nc4.nc
