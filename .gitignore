@@ -4,3 +4,5 @@ table.txt
 .DS_Store
 .ipynb_checkpoints/regional_residual_bathymetry-checkpoint.ipynb
 filt.nc
+.ipynb_checkpoints/AgeDepthRelationship-checkpoint.ipynb
+.ipynb_checkpoints/ExpectedDepth-checkpoint.ipynb
